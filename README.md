@@ -72,7 +72,7 @@ Server response: 200 OK
 Message of the day: Anyone who has never made a mistake has never tried anything new.
 ```
 
-- **Message Retrieval:**
+- **Message Storage:**
 ```
 Enter a command: MSGSTORE
 Server response: 200 OK
